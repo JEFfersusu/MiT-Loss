@@ -11,5 +11,5 @@ If you think that our work is useful to your research, please cite using this Bi
 	title={MiT Loss: Medical Image-aware Transfer-calibrated Loss for Enhanced Classification},
 	journal={Measurement Science and Technology},
 	url={http://iopscience.iop.org/article/10.1088/1361-6501/ae08d8},
-	year={2025},
+	year={2025}
 }
