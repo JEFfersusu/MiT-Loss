@@ -3,6 +3,20 @@
 
 This study is published by the Measurement Science and Technology: https://iopscience.iop.org/article/10.1088/1361-6501/ae08d8/meta
 
+
+<div align="center">
+
+| Dataset | Classes| Imaging Modality |
+|:--------|:-------:|:------------:|:----------------:|:-------:|:---------:|
+| **[PAD-UFES-20](https://zenodo.org/records/3904280)** | 6 | Maternal-fetal Ultrasound|
+| **[CPN X-ray](https://datasets.simula.no/kvasir/)** | 3 | Gastrointestinal Endoscope|
+| **[BreastMNIST](https://medmnist.com/)** | 8 | Blood Cell Microscope|
+| **[DermaMNIST](https://medmnist.com/)** | 7 | Dermatoscope|
+| **[PneumoniaMNIST](https://medmnist.com/)** | 2 | Chest X-Ray|
+| **[RetinaMNIST](https://medmnist.com/)** | 5 | Fundus Camera|
+
+</div>
+
 ## Citation
 If you think that our work is useful to your research, please cite using this BibTeX:
 ```bibtex
