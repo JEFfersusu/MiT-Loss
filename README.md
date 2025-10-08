@@ -1,7 +1,7 @@
 # MiT Loss
-**Official PyTorch implementation of "MiT Loss: Medical Image-aware Transfer-calibrated Loss for Enhanced Classification"**
+**Official PyTorch implementation of "MiT Loss: Medical Image-aware Transfer-calibrated Loss for Enhanced Classification"**.
 
-This study is published by the _Measurement Science and Technology_: https://iopscience.iop.org/article/10.1088/1361-6501/ae08d8/meta
+This study is published by the _Measurement Science and Technology_: https://iopscience.iop.org/article/10.1088/1361-6501/ae08d8/meta.
 
 
 <div align="center">
@@ -35,4 +35,4 @@ journal = {Measurement Science and Technology}
 }
 ```
 
-If you have any questions, please contact: panweichao01@outlook.com
+If you have any questions, please contact: panweichao01@outlook.com.
