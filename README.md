@@ -21,4 +21,4 @@ journal = {Measurement Science and Technology}
 }
 ```
 
-If you have any questions, please contact: panweichao01 AT outlook.com
+If you have any questions, please contact: panweichao01@outlook.com
