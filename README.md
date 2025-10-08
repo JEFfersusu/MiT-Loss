@@ -7,7 +7,7 @@ This study is published by the Measurement Science and Technology: https://iopsc
 <div align="center">
 
 | Dataset | Classes| Imaging Modality |
-|:--------|:-------:|:------------:|:----------------:|:-------:|:---------:|
+|:--------|:-------:|:------------:|
 | **[PAD-UFES-20](https://zenodo.org/records/3904280)** | 6 | Maternal-fetal Ultrasound|
 | **[CPN X-ray](https://datasets.simula.no/kvasir/)** | 3 | Gastrointestinal Endoscope|
 | **[BreastMNIST](https://medmnist.com/)** | 8 | Blood Cell Microscope|
