@@ -8,12 +8,12 @@ This study is published by the Measurement Science and Technology: https://iopsc
 
 | Dataset | Classes| Imaging Modality |
 |:--------|:-------:|:------------:|
-| **[PAD-UFES-20](https://zenodo.org/records/3904280)** | 6 | Maternal-fetal Ultrasound|
-| **[CPN X-ray](https://datasets.simula.no/kvasir/)** | 3 | Gastrointestinal Endoscope|
-| **[BreastMNIST](https://medmnist.com/)** | 8 | Blood Cell Microscope|
-| **[DermaMNIST](https://medmnist.com/)** | 7 | Dermatoscope|
-| **[PneumoniaMNIST](https://medmnist.com/)** | 2 | Chest X-Ray|
-| **[RetinaMNIST](https://medmnist.com/)** | 5 | Fundus Camera|
+| **[PAD-UFES-20](https://data.mendeley.com/datasets/zr7vgbcyr2/1)** | 6 | clinical photography (smartphone-based visible light)|
+| **[CPN X-ray](https://data.mendeley.com/datasets/dvntn9yhd2/1)** | 3 | Chest X-Ray|
+| **[BreastMNIST](https://zenodo.org/records/10519652)** | 2 | Breast ultrasound|
+| **[DermaMNIST](https://zenodo.org/records/10519652)** | 7 | Dermatoscope|
+| **[PneumoniaMNIST](https://zenodo.org/records/10519652)** | 2 | Chest X-Ray|
+| **[RetinaMNIST](https://zenodo.org/records/10519652)** | 5 | Fundus Camera|
 
 </div>
 
