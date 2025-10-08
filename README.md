@@ -3,6 +3,8 @@
 
 This study is published by the _Measurement Science and Technology_: https://iopscience.iop.org/article/10.1088/1361-6501/ae08d8/meta.
 
+The full article can be freely downloaded from the ResearchGate website: https://www.researchgate.net/publication/396265409_MiT_Loss_medical_image-aware_transfer-calibrated_loss_for_enhanced_classification.
+
 
 <div align="center">
 
