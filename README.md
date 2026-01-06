@@ -22,7 +22,7 @@ The full article can be freely downloaded from the ResearchGate website: https:/
 </div>
 
 ## Citation
-If you think that our work is useful to your research, please cite using this BibTeX:
+If you think that our work is useful to your research, please cite using this BibTeX😊:
 ```bibtex
 @article{MiTL_2025,
 doi = {10.1088/1361-6501/ae08d8},
