@@ -1,6 +1,8 @@
 # MiT Loss
 **Official PyTorch implementation of "MiT Loss: Medical Image-aware Transfer-calibrated Loss for Enhanced Classification"**.
 
+MiT Loss is an upgraded version that combines "constraint-driven, self-calibration, and data loop closure". MiT Loss generalizes [TET Loss](https://github.com/JEFfersusu/TET_loss/tree/main) by introducing data-driven temperature calibration and dual-averaged entropy constraints, enabling adaptive uncertainty alignment with empirical label entropy during training.
+
 This study is published by the _Measurement Science and Technology_: https://iopscience.iop.org/article/10.1088/1361-6501/ae08d8/meta.
 
 The full article can be freely downloaded from the ResearchGate website: https://www.researchgate.net/publication/396265409_MiT_Loss_medical_image-aware_transfer-calibrated_loss_for_enhanced_classification.
